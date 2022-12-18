@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FragmentTask</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="poas">
+        <item>Агенты Valorant</item>
+        <item>Brimstone (кодовое имя Сержант) — американский агент-специалист из игры VALORANT, специализирующийся на поддержке союзников и нанесении урона враг</item>
+        <item>Chamber (кодовое имя Мертвый глаз) — французский контрактный агент-страж из игры VALORANT.</item>
+        <item>Raze (кодовое имя Клэй) — бразильский контрактный агент-дуэлянт из игры VALORANT. </item>
+    </string-array>
+</resources>
